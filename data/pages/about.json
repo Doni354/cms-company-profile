@@ -1,0 +1,65 @@
+{
+  "id": "about",
+  "title": "Tentang Kami - TechVision",
+  "sections": [
+    {
+      "id": "about-hero",
+      "type": "Hero",
+      "props": {
+        "title": "Tentang TechVision",
+        "subtitle": "Membangun solusi teknologi untuk masa depan yang lebih baik",
+        "backgroundImage": "/hero-bg.jpg",
+        "alignContent": "center"
+      }
+    },
+    {
+      "id": "about-main",
+      "type": "About",
+      "props": {
+        "title": "Perjalanan Kami",
+        "description": "Sejak didirikan pada tahun 2014, TechVision telah berkomitmen untuk memberikan solusi teknologi terbaik. Kami percaya bahwa teknologi harus memberdayakan bisnis, bukan memperumitnya.",
+        "points": [
+          "Lebih dari 10 tahun pengalaman di industri teknologi",
+          "Telah melayani lebih dari 500+ klien global",
+          "Tim yang terdiri dari expert di bidangnya",
+          "Komitmen terhadap inovasi berkelanjutan"
+        ],
+        "image": "/about-image.jpg"
+      }
+    },
+    {
+      "id": "about-team",
+      "type": "Team",
+      "props": {
+        "title": "Tim Kami",
+        "description": "Dipimpin oleh profesional berpengalaman dengan track record yang terbukti",
+        "members": [
+          {
+            "id": "john-doe",
+            "name": "John Doe",
+            "position": "CEO & Founder",
+            "bio": "Visioner teknologi dengan 15+ tahun pengalaman"
+          },
+          {
+            "id": "jane-smith",
+            "name": "Jane Smith",
+            "position": "CTO",
+            "bio": "Expert dalam cloud architecture dan DevOps"
+          },
+          {
+            "id": "mike-johnson",
+            "name": "Mike Johnson",
+            "position": "Lead Designer",
+            "bio": "Desainer UI/UX berpengalaman dalam mobile dan web"
+          },
+          {
+            "id": "sarah-williams",
+            "name": "Sarah Williams",
+            "position": "Product Manager",
+            "bio": "Product strategist dengan fokus pada user experience"
+          }
+        ]
+      }
+    }
+  ]
+}

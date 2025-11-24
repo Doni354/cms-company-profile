@@ -1,0 +1,32 @@
+{
+  "companyName": "TechVision",
+  "companyDescription": "Solusi teknologi terdepan untuk bisnis Anda",
+  "logo": "/logo.svg",
+  "navigation": [
+    {
+      "label": "Beranda",
+      "href": "/"
+    },
+    {
+      "label": "Tentang",
+      "href": "/about"
+    },
+    {
+      "label": "Layanan",
+      "href": "/services"
+    },
+    {
+      "label": "Tim",
+      "href": "/team"
+    },
+    {
+      "label": "Kontak",
+      "href": "/contact"
+    }
+  ],
+  "contact": {
+    "email": "hello@techvision.com",
+    "phone": "+62 812-3456-7890",
+    "address": "Jakarta, Indonesia"
+  }
+}

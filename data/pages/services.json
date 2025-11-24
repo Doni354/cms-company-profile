@@ -1,0 +1,78 @@
+{
+  "id": "services",
+  "title": "Layanan Kami - TechVision",
+  "sections": [
+    {
+      "id": "services-hero",
+      "type": "Hero",
+      "props": {
+        "title": "Layanan Kami",
+        "subtitle": "Solusi teknologi komprehensif untuk setiap kebutuhan bisnis",
+        "backgroundImage": "/hero-bg.jpg",
+        "alignContent": "center"
+      }
+    },
+    {
+      "id": "services-main",
+      "type": "Services",
+      "props": {
+        "title": "Layanan yang Kami Tawarkan",
+        "description": "Dari konsultasi hingga implementasi, kami siap membantu perjalanan digital Anda",
+        "services": [
+          {
+            "id": "web-dev",
+            "title": "Web Development",
+            "description": "Pembuatan website modern, responsif, dan SEO-friendly menggunakan teknologi terkini",
+            "icon": "Code"
+          },
+          {
+            "id": "mobile-app",
+            "title": "Mobile App Development",
+            "description": "Aplikasi mobile native dan cross-platform untuk iOS dan Android",
+            "icon": "Smartphone"
+          },
+          {
+            "id": "cloud",
+            "title": "Cloud Solutions",
+            "description": "Infrastruktur cloud yang scalable, secure, dan cost-effective",
+            "icon": "Cloud"
+          },
+          {
+            "id": "consulting",
+            "title": "Tech Consulting",
+            "description": "Strategi transformasi digital dan konsultasi teknologi enterprise",
+            "icon": "Briefcase"
+          },
+          {
+            "id": "api",
+            "title": "API Development",
+            "description": "Pengembangan API robust untuk integrasi sistem yang seamless",
+            "icon": "Code"
+          },
+          {
+            "id": "security",
+            "title": "Security & Compliance",
+            "description": "Keamanan tingkat enterprise dan compliance dengan standar industri",
+            "icon": "Shield"
+          }
+        ]
+      }
+    },
+    {
+      "id": "services-cta",
+      "type": "CTA",
+      "props": {
+        "title": "Siap Mentransformasi Bisnis Anda?",
+        "subtitle": "Hubungi tim kami untuk konsultasi gratis dan solusi yang disesuaikan dengan kebutuhan Anda",
+        "primaryButton": {
+          "text": "Mulai Konsultasi",
+          "link": "/contact"
+        },
+        "secondaryButton": {
+          "text": "Lihat Portfolio",
+          "link": "/#services"
+        }
+      }
+    }
+  ]
+}

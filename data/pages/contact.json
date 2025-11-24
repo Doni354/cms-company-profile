@@ -1,0 +1,27 @@
+{
+  "id": "contact",
+  "title": "Hubungi Kami - TechVision",
+  "sections": [
+    {
+      "id": "contact-hero",
+      "type": "Hero",
+      "props": {
+        "title": "Hubungi Kami",
+        "subtitle": "Siap menjawab pertanyaan Anda tentang solusi teknologi kami",
+        "backgroundImage": "/hero-bg.jpg",
+        "alignContent": "center"
+      }
+    },
+    {
+      "id": "contact-main",
+      "type": "Contact",
+      "props": {
+        "title": "Mari Kita Berbicara",
+        "description": "Kami tertarik mendengar tentang proyek Anda. Hubungi kami dengan pertanyaan atau permintaan apapun.",
+        "email": "hello@techvision.com",
+        "phone": "+62 812-3456-7890",
+        "address": "Jakarta, Indonesia"
+      }
+    }
+  ]
+}

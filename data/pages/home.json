@@ -1,0 +1,112 @@
+{
+  "id": "home",
+  "title": "Beranda - TechVision",
+  "sections": [
+    {
+      "id": "hero-1",
+      "type": "Hero",
+      "props": {
+        "title": "Transformasi Digital Dimulai Di Sini",
+        "subtitle": "Kami membawa bisnis Anda ke level berikutnya dengan solusi teknologi terpadu",
+        "ctaText": "Mulai Sekarang",
+        "ctaLink": "/contact",
+        "backgroundImage": "/hero-bg.jpg",
+        "alignContent": "center"
+      }
+    },
+    {
+      "id": "about-1",
+      "type": "About",
+      "props": {
+        "title": "Tentang TechVision",
+        "description": "Dengan pengalaman lebih dari 10 tahun, kami telah membantu ratusan perusahaan mencapai tujuan digital mereka.",
+        "points": [
+          "Inovasi berkelanjutan",
+          "Tim profesional berpengalaman",
+          "Solusi custom untuk setiap klien",
+          "Dukungan teknis 24/7"
+        ],
+        "image": "/about-image.jpg"
+      }
+    },
+    {
+      "id": "features-1",
+      "type": "Features",
+      "props": {
+        "title": "Keunggulan Kami",
+        "features": [
+          {
+            "icon": "Zap",
+            "title": "Cepat",
+            "description": "Implementasi yang cepat tanpa mengorbankan kualitas"
+          },
+          {
+            "icon": "Shield",
+            "title": "Aman",
+            "description": "Keamanan data tingkat enterprise untuk bisnis Anda"
+          },
+          {
+            "icon": "TrendingUp",
+            "title": "Scalable",
+            "description": "Berkembang bersama bisnis Anda tanpa batasan"
+          },
+          {
+            "icon": "Users",
+            "title": "Kolaboratif",
+            "description": "Bekerja sama dengan tim Anda dengan mudah"
+          }
+        ]
+      }
+    },
+    {
+      "id": "services-1",
+      "type": "Services",
+      "props": {
+        "title": "Layanan Kami",
+        "description": "Rangkaian layanan komprehensif untuk semua kebutuhan digital Anda",
+        "services": [
+          {
+            "id": "web-dev",
+            "title": "Web Development",
+            "description": "Pembuatan website modern dan responsif",
+            "icon": "Code"
+          },
+          {
+            "id": "mobile-app",
+            "title": "Mobile App",
+            "description": "Aplikasi mobile untuk iOS dan Android",
+            "icon": "Smartphone"
+          },
+          {
+            "id": "cloud",
+            "title": "Cloud Solutions",
+            "description": "Infrastruktur cloud yang andal dan scalable",
+            "icon": "Cloud"
+          },
+          {
+            "id": "consulting",
+            "title": "Tech Consulting",
+            "description": "Konsultasi strategis untuk transformasi digital",
+            "icon": "Briefcase"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cta-1",
+      "type": "CTA",
+      "props": {
+        "title": "Siap untuk Berkembang?",
+        "subtitle": "Hubungi kami hari ini dan dapatkan konsultasi gratis untuk bisnis Anda",
+        "primaryButton": {
+          "text": "Hubungi Kami",
+          "link": "/contact"
+        },
+        "secondaryButton": {
+          "text": "Pelajari Lebih",
+          "link": "/services"
+        }
+      }
+    }
+  ]
+}
